@@ -116,7 +116,7 @@ To get your on scraper up and running follow these simple steps.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [TechWIthTim](https://www.techwithtim.net/)
+* [TechWithTim](https://www.techwithtim.net/)
 * [Img Shields](https://shields.io)
 * [Simple Badges](https://badges.pages.dev/)
 
