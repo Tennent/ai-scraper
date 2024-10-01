@@ -44,3 +44,10 @@ def clean_body_content(body_content):
     )
 
     return cleaned_content
+
+
+def split_dom_content(dom_content, max_length=5000):
+    # Split the DOM content by max_length to stay under token limit
+    return [
+        dom_content[i: i + max_length] for i in range(0, len(dom_content), max_length)
+    ]
